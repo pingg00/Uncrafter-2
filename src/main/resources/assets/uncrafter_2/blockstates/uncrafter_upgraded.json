@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "uncrafter_2:block/uncrafter_upgraded"
+    },
+    "facing=east": {
+      "model": "uncrafter_2:block/uncrafter_upgraded",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "uncrafter_2:block/uncrafter_upgraded",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "uncrafter_2:block/uncrafter_upgraded",
+      "y": 270
+    }
+  }
+}

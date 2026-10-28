@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "uncrafter_2:block/uncrafter_north",
+    "down": "uncrafter_2:block/uncrafter_bottom",
+    "up": "uncrafter_2:block/uncrafter_top",
+    "north": "uncrafter_2:block/uncrafter_north",
+    "south": "uncrafter_2:block/uncrafter_south",
+    "east": "uncrafter_2:block/uncrafter_east",
+    "west": "uncrafter_2:block/uncrafter_west"
+  }
+}

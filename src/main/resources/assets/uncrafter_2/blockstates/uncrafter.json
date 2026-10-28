@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "uncrafter_2:block/uncrafter"
+    },
+    "facing=east": {
+      "model": "uncrafter_2:block/uncrafter",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "uncrafter_2:block/uncrafter",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "uncrafter_2:block/uncrafter",
+      "y": 270
+    }
+  }
+}

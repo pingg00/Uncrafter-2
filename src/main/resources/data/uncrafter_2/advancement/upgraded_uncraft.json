@@ -1,0 +1,14 @@
+{
+  "parent": "uncrafter_2:first_uncraft",
+  "display": {
+    "icon": { "id": "uncrafter_2:uncrafter_upgraded" },
+    "title": { "translate": "advancements.uncrafter_2.upgraded.title" },
+    "description": { "translate": "advancements.uncrafter_2.upgraded.description" },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": { "uncraft": { "trigger": "minecraft:impossible" } },
+  "requirements": [ [ "uncraft" ] ]
+}

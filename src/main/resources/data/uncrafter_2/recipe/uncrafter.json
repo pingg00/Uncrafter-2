@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "#o#",
+    "DED",
+    "OCO"
+  ],
+  "key": {
+    "#": { "item": "minecraft:diamond" },
+    "o": { "item": "minecraft:amethyst_shard" },
+    "D": { "item": "minecraft:dark_prismarine" },
+    "E": { "item": "minecraft:ender_eye" },
+    "O": { "item": "minecraft:obsidian" },
+    "C": { "item": "minecraft:crying_obsidian" }
+  },
+  "result": { "id": "uncrafter_2:uncrafter", "count": 1 }
+}

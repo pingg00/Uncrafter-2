@@ -1,0 +1,14 @@
+{
+  "parent": "uncrafter_2:craft_uncrafter",
+  "display": {
+    "icon": { "id": "minecraft:crafting_table" },
+    "title": { "translate": "advancements.uncrafter_2.first.title" },
+    "description": { "translate": "advancements.uncrafter_2.first.description" },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": { "uncraft": { "trigger": "minecraft:impossible" } },
+  "requirements": [ [ "uncraft" ] ]
+}

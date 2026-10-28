@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "#E#",
+    "DeD",
+    "SCS"
+  ],
+  "key": {
+    "#": { "item": "minecraft:netherite_ingot" },
+    "E": { "item": "minecraft:end_crystal" },
+    "D": { "item": "minecraft:dark_prismarine" },
+    "e": { "item": "minecraft:ender_eye" },
+    "S": { "item": "minecraft:end_stone" },
+    "C": { "item": "minecraft:crying_obsidian" }
+  },
+  "result": { "id": "uncrafter_2:uncrafter_upgraded", "count": 1 }
+}
